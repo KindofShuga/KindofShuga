@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">
   Привет! Я Алина
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h3>
   <img src="https://media.giphy.com/media/5jUAT1pNAgRfc3Ev4M/giphy.gif" width="30px"/>
