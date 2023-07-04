@@ -38,6 +38,7 @@
   <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" title="express" alt="express" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="mongodb" alt="mongodb" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain-wordmark.svg" title="webpack" alt="webpack" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="60" height="60"/>&nbsp;
 </div>
 <!--
 **KindofShuga/KindofShuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
