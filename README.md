@@ -13,8 +13,8 @@
 
 - Обучаюсь фронтенд-разработке
 - Окончила курс от [Яндекс.Практикума](https://practicum.yandex.ru/) &laquo;Веб-разработчик&raquo;
-- [Моя дипломная работа](https://movies-explorer.alinat.nomoredomains.monster/)
-- [Репозиторий](https://github.com/KindofShuga/movies-explorer-frontend) дипломной работы
+- [Репозиторий](https://github.com/KindofShuga/movies-explorer-frontend) [моей дипломной работы](https://movies-explorer.alinat.nomoredomains.monster/)
+- [Репозиторий](https://github.com/KindofShuga/movies-explorer-api) проекта [Mesto](https://movies-explorer.alinat.nomoredomains.monster)
 
 <div id="badges">
   <img src="https://media.giphy.com/media/McsUx1K5XmZJfDzaoE/giphy.gif" width="35px"/>
