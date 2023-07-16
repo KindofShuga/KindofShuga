@@ -11,10 +11,11 @@
 </h3>
 Мне 22 года, в настоящий момент живу в Санкт-Петербурге
 
-- Обучаюсь фронтенд-разработке
-- Окончила курс от [Яндекс.Практикума](https://practicum.yandex.ru/) &laquo;Веб-разработчик&raquo;
-- [Репозиторий](https://github.com/KindofShuga/movies-explorer-frontend) моей [дипломной работы](https://movies-explorer.alinat.nomoredomains.monster/)
-- [Репозиторий](https://github.com/KindofShuga/movies-explorer-api) проекта [Mesto](https://movies-explorer.alinat.nomoredomains.monster)
+- Обучаюсь фронтенд-разработке.
+- Окончила курс от [Яндекс.Практикума](https://practicum.yandex.ru/) &laquo;Веб-разработчик&raquo;.
+- [Репозиторий](https://github.com/KindofShuga/movies-explorer-frontend) моей дипломной работы [**Movies-explorer**](https://movies-explorer.alinat.nomoredomains.monster/).
+- [Репозиторий](https://github.com/KindofShuga/mesto-react) одностраничного проекта [**Mesto**](https://kindofshuga.github.io/mesto-react/).
+- [Репозиторий](https://github.com/KindofShuga/react-mesto-api-full-gha) проекта Mesto с авторизацией/регистрацией.
 
 <div id="badges">
   <img src="https://media.giphy.com/media/McsUx1K5XmZJfDzaoE/giphy.gif" width="35px"/>
