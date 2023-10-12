@@ -13,7 +13,7 @@
 
 - Обучаюсь фронтенд-разработке.
 - Окончила курс от [Яндекс.Практикума](https://practicum.yandex.ru/) &laquo;Веб-разработчик&raquo;.
-- [Репозиторий](https://github.com/KindofShuga/movies-explorer-frontend) моей дипломной работы [**Movies-explorer**](https://movies-explorer.alinat.nomoredomains.monster/).
+- [Репозиторий](https://github.com/KindofShuga/movies-explorer-frontend) моей дипломной работы **Movies-explorer**.
 - [Репозиторий](https://github.com/KindofShuga/mesto-react) одностраничного проекта [**Mesto**](https://kindofshuga.github.io/mesto-react/).
 - [Репозиторий](https://github.com/KindofShuga/react-mesto-api-full-gha) проекта Mesto с авторизацией/регистрацией.
 
